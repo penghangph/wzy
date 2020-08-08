@@ -1,1 +1,9 @@
-wzy
+git init // 初始化项目
+git add . // 将当前目录交由git管理
+
+git commit -m '注释' // 将代码提交到本地
+
+git push  //将代码提交到远程服务器
+
+
+git pull //将远程服务器的代码下载到本地
