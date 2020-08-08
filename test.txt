@@ -7,3 +7,5 @@ git push  //将代码提交到远程服务器
 
 
 git pull //将远程服务器的代码下载到本地
+
+git remote add 远程地址
